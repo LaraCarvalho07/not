@@ -10,7 +10,7 @@ body{
     background-color: #6da681;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
     gap: 0px;
     padding: 10px;
